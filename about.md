@@ -10,7 +10,7 @@ Der Hallenser DH-Stammtisch #DHAL erprobte einen alternativen Weg über das digi
 
 ## DHall im Jahr 2021
 
-Die so entstandene virtuelle DH-Subcommunity kommt weiterhin regelmäßig zum fachlichen und informellen Austausch zusammen und zählte schon im April 2020 weit über 100 Teilnehmerinnen und Teilnehmer aus vielen deutschsprachigen Regionen und unterschiedlichsten Fachgebieten. Inzwischen ist die Zahl der Anmeldungen auf über 400 angestiegen. #DHall ist dezentral administriert, institutionell unabhängig und wird von diversen Netzwerken genutzt: So wurde dort beispielsweise eine Pecha Kucha-Night veranstaltet (vgl. Dogunke 2020) oder das DH-Kolloquium der BBAW abgehalten (vgl. Thomas 2020). #DHall ist offen für alle Ideen und Formate. Viele nutzen die diversen Kanäle zum fachlichen Austausch, beispielsweise zur Digitalen Lehre und Digitalen Editionen, zur regionalen und domänenspezifischen Kommunikation, aber auch für informelle Gespräche in der Kaffeepause.
+Die so entstandene virtuelle DH-Subcommunity kommt weiterhin regelmäßig zum fachlichen und informellen Austausch zusammen und zählte schon im April 2020 weit über 100 Teilnehmerinnen und Teilnehmer aus vielen deutschsprachigen Regionen und unterschiedlichsten Fachgebieten. Inzwischen ist die Zahl der Anmeldungen auf über 400 angestiegen. #DHall ist dezentral administriert, institutionell unabhängig und wird von diversen Netzwerken genutzt: So wurde dort beispielsweise eine Pecha Kucha-Night veranstaltet (vgl. Dogunke 2020), das DH-Kolloquium der BBAW abgehalten (vgl. Thomas 2020) oder zum Ausklang des DH-Days Leipzig eingeladen (vgl. Burghardt 2020). #DHall ist offen für alle Ideen und Formate. Viele nutzen die diversen Kanäle zum fachlichen Austausch, beispielsweise zur Digitalen Lehre und Digitalen Editionen, zur regionalen und domänenspezifischen Kommunikation, aber auch für informelle Gespräche in der Kaffeepause.
 
 ## Post-Covid #DHall?
 
@@ -18,16 +18,18 @@ Freilich ist #DHall aus einer besonderen Situation entstanden und entwickelte si
 
 # Literatur
 
-* Anna Busch, Jan Christoph Meister und Mareike Schumacher (2016): Wo bleibt eigentlich der einzelne Fachwissenschaftler? DOI: 10.1515/bfp-2016-0028(https://doi.org/10.1515/bfp-2016-0028)
+* Manuel Burghardt (2020): 4. Digital Humanities Day Leipzig, 02.12.2020. [fdhl.info](https://fdhl.info/dhdl-2020/)
 
-* Swantje Dogunke: Die fabelhafte Welt der Digital Humanities, 25.06.2020. URL: [uni-weimar.de](https://www.uni-weimar.de/projekte/schriftstellerinnen/pechakucha/index_alt)
+* Anna Busch, Jan Christoph Meister und Mareike Schumacher (2016): Wo bleibt eigentlich der einzelne Fachwissenschaftler? DOI: [10.1515/bfp-2016-0028](https://doi.org/10.1515/bfp-2016-0028)
+
+* Swantje Dogunke (2020): Die fabelhafte Welt der Digital Humanities, 25.06.2020. URL: [uni-weimar.de](https://www.uni-weimar.de/projekte/schriftstellerinnen/pechakucha/index_alt)
 
 * Andreas Müller (2019): #DHAL Demystified: The Joys of Founding a DH Regulars’ Table. In: Met-Hodos. (Re)considering the road of research and analysis, 28.10.2019. URL: [methodos.hypotheses.org](https://methodos.hypotheses.org/1661)
 
-* Moritz Bruno Petzold; Andreas Ströhle; Jens Plag: COVID-19-Pandemie: Psychische Belastungen können reduziert werden. In: Deutsches Ärzteblatt 2020, 117(13), A 648–54. URN: [aerzteblatt.de](https://www.aerzteblatt.de/archiv/213283/COVID-19-Pandemie-Psychische-Belastungen-koennen-reduziert-werden)
+* Moritz Bruno Petzold, Andreas Ströhle und Jens Plag (2020): COVID-19-Pandemie: Psychische Belastungen können reduziert werden. In: Deutsches Ärzteblatt 2020, 117(13), A 648–54. URN: [aerzteblatt.de](https://www.aerzteblatt.de/archiv/213283/COVID-19-Pandemie-Psychische-Belastungen-koennen-reduziert-werden)
 
-* Torsten Roeder; Andreas Müller (2019): Digital Humanities als Stammtisch-Science? DOI: [zenodo.org](http://doi.org/10.5281/zenodo.3557385)
+* Torsten Roeder und Andreas Müller (2019): Digital Humanities als Stammtisch-Science? DOI: [zenodo.org](http://doi.org/10.5281/zenodo.3557385)
 
-* Christian Thomas, Digital-Humanities-Kolloquium, 3. Juli 2020. URL: [bbaw.de](https://www.bbaw.de/veranstaltungen/veranstaltung-default-da7a5f66e8)
+* Christian Thomas (2020): Digital-Humanities-Kolloquium, 03.07.2020. URL: [bbaw.de](https://www.bbaw.de/veranstaltungen/veranstaltung-default-da7a5f66e8)
 
 * Ulrike Wuttke (2019): Infrastrukturelle Erfolgsfaktoren für einen Digital Humanities-Schwerpunkt an deutschen Universitäten. URN: https://nbn-resolving.org/urn:nbn:de:hbz:79pbc-opus-13968
