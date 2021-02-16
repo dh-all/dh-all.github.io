@@ -34,4 +34,4 @@ Freilich ist #DHall aus einer besonderen Situation entstanden und entwickelte si
 
 * Christian Thomas (2020): Digital-Humanities-Kolloquium, 03.07.2020. URL: [bbaw.de](https://www.bbaw.de/veranstaltungen/veranstaltung-default-da7a5f66e8)
 
-* Ulrike Wuttke (2019): Infrastrukturelle Erfolgsfaktoren für einen Digital Humanities-Schwerpunkt an deutschen Universitäten. URN: https://nbn-resolving.org/urn:nbn:de:hbz:79pbc-opus-13968
+* Ulrike Wuttke (2019): Infrastrukturelle Erfolgsfaktoren für einen Digital Humanities-Schwerpunkt an deutschen Universitäten. URN: [th-koeln.de](https://nbn-resolving.org/urn:nbn:de:hbz:79pbc-opus-13968)
