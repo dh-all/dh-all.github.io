@@ -2,11 +2,11 @@
 
 _von Torsten Roeder_
 
-## Die Bedeutung der Corona-Pandemie für informelle DH-Treffen
+## Corona und informelle DH-Treffen
 
 Neben der Kombination von Informatik und Geisteswissenschaften basieren die Digital Humanities auf offenen und niederschwelligen Kommunikationsräumen. Mit den Maßnahmen zur Eindämmung der weltweiten Pandemie im Jahr 2020 mussten die zahlreichen informellen lokalen Angebote im DH-Bereich stark einbüßen: Stammtische mussten abgesagt werden, Science Cafés, Summer Schools oder Hackathons wurden gecancelt oder in digitale Formate transformiert. Die DH verloren dadurch einen bedeutenden Teil ihrer Aktions- und Handlungsräume für den interdisziplinären »Austausch auf Augenhöhe« (vgl. Busch et al. 2016). Informelle Kommunikationsräume bieten außerdem einen für die DH wichtigen außerinstitutionellen Netzwerkeffekt (Wuttke 2019: 71).
 
-## Digitale Transformation eines Stammtisches
+## Digitale Transformation eines Real-Life-Events
 
 Der Hallenser DH-Stammtisch [#DHAL](https://torstenroeder.github.io/dhal/) erprobte einen alternativen Weg über das digitale Medium. Wie aber konnte dort das bottom-up-Prinzip (vgl. Roeder/Müller 2019) bewahrt werden? Es wurde dazu eingeladen, zu einem bestimmten Termin (erstmals am 17. März 2020) beliebige digitale Kommunikationskanäle offen zur Verfügung zu stellen. Aus den diversen Kanälen – Twitter, Slack, Telegram – konvergierte der größere Teil der spontan aus DH-affinen Personen entstandenen Gruppe auf Discord. Es entstanden im Verlauf der weiteren Treffen sogar ein Minecraft-Server und regelmäßige skribblio.io-Treffen. Anders als während des analog stattfindenden Stammtischs #DHAL beteiligten sich daran aber nicht nur Menschen aus Halle, Leipzig, und Merseburg. Neugierige Personen aus dem gesamten deutschsprachigen Raum stießen hinzu und tauschen sich seitdem in verschiedenen thematisch, domänenspezifischen und regional orientierten Chat- und Voicechannels aus. Es wurde bald deutlich, dass es dabei nicht ausschließlich um fachliche Synergien ging, sondern ganz wesentlich um die direkten persönlichen Brücken zueinander, die im Homeoffice viele der Teilnehmenden vermissten. So transformierte #DHAL schließlich zu »DH für alle«: #DHall.
 
