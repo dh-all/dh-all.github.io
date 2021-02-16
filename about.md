@@ -1,4 +1,4 @@
-# #DHall – ein Ort für die DH-Community
+# Von #DHAL zu #DHall
 
 _von Torsten Roeder_
 
