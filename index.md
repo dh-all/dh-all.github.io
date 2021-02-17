@@ -1,6 +1,6 @@
 # Ein Ort für die DH-Community
 
-"#DHall" ist ein virtueller Treffpunkt, an dem sich Personen aus der DH-Community online zusammenfinden können. Dafür steht ein [Discord](https://discord.com/)-Server bereit. Es gibt darin diverse Chat- und Voice-Kanäle mit thematischen, regionalen oder anderen Vorzeichen. Mehr über die Hintergründe [hier](about).
+#DHall ist ein virtueller Treffpunkt, an dem sich Personen aus der DH-Community online zusammenfinden können. Dafür steht ein [Discord](https://discord.com/)-Server bereit. Es gibt darin diverse Chat- und Voice-Kanäle mit thematischen, regionalen oder anderen Vorzeichen. Mehr über die Hintergründe [hier](about).
 
 ## Features
 
@@ -13,10 +13,10 @@
 
 ## Mitmachen
 
-*Discord-Link*: https://discord.gg/84nxSXx6T8
+Folge dem aktuellen Einladungs-Link zum Discord-Server: [https://discord.gg/84nxSXx6T8](https://discord.gg/84nxSXx6T8)
 
 ## Admins A-Z
 
 Benjamin Auberer 👑*, Berenike Rensinghoff, Daniel Brenn, Lea Gleißner, Lisa Kolodzie, Melanie Seltmann, Torsten Roeder
 
-*) Gründerkrone
+_*) Gründerkrone_
