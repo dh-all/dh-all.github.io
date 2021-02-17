@@ -6,16 +6,16 @@
 
 * über 400 Mitglieder
 * über 30 Channels
+* sehr nette Admins (s.u.)
 * Teeküche und Lernraum
-* nette Admins
 * freie Getränke
 
 ## Mitmachen
 
 *Discord-Link*: https://discord.gg/84nxSXx6T8
 
-## Kontakt
+## Admins A-Z
 
-*Ansprechpersonen*: Melanie Seltmann & Daniel Brenn
+Benjamin Auberer 👑*, Daniel Brenn, Lea Gleißner, Lisa Kolodzie, Berenike Rensinghoff, Torsten Roeder, Melanie Seltmann
 
-*Admins* (A-Z): Benjamin Auberer 👑, Daniel Brenn, Lea Gleißner, Lisa Kolodzie, Berenike Rensinghoff, Torsten Roeder, Melanie Seltmann
+*) Gründerkrone
