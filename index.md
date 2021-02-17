@@ -16,6 +16,6 @@
 
 ## Kontakt
 
-*Ansprechpersonen*: Melanie Siemund & Daniel Brenn
+*Ansprechpersonen*: Melanie Seltmann & Daniel Brenn
 
-*Admins* (A-Z): Benjamin Auberer 👑, Daniel Brenn, Lea Gleißner, Lisa Kolodzie, Berenike Rensinghoff, Torsten Roeder, Melanie Siemund
+*Admins* (A-Z): Benjamin Auberer 👑, Daniel Brenn, Lea Gleißner, Lisa Kolodzie, Berenike Rensinghoff, Torsten Roeder, Melanie Seltmann
