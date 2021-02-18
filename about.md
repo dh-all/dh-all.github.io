@@ -18,7 +18,7 @@ Die so entstandene virtuelle DH-Subcommunity kommt weiterhin regelmäßig zum fa
 
 Freilich ist #DHall aus einer besonderen Situation entstanden und entwickelte sich ungeplant zu einem relevanten Kommunikationsort der Lockdown-Zeit, nicht zuletzt durch akuten psychologischen Bedarf nach Zusammenhalt und Unterstützung in der ungewohnten Homeoffice-Situation (vgl. dazu Petzold et al. 2020). Kann diese Plattform aber auch über die Pandemie-Zeit hinaus bewahrt werden, oder verliert sie mit dem Ende der Corona-Maßnahmen ihren Impetus? Allein aufgrund des überregionalen Charakters füllt #DHall eine Lücke, die auch nach Wiederaufnahme lokaler Community-Treffen von Bedeutung bleibt. Der Bedarf an einer digitalen Austauschplattform bestand allerdings schon seit längerem: Während beispielsweise die englischsprachige Community auf Slack unterwegs ist, fehlte im deutschsprachigen Raum bislang ein niederschwelliges Angebot für das fachliche und informelle Gespräch. Vor diesem Hintergrund ist es beabsichtigt, #DHall weiterhin verfügbar zu halten. Durch dezentrale Administration können jederzeit Channels für Chat, Voice, Video und Screenshare eingerichtet werden. Die Anmeldung ist anonym und ohne Wartezeit möglich.
 
-[_zur #DHall-Infoseite_](/)
+[_zur #DHall-Infoseite_](index)
 
 # Literatur
 
