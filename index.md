@@ -20,3 +20,5 @@ Folge dem aktuellen Einladungs-Link zum Discord-Server: [https://discord.gg/84nx
 Benjamin Auberer 👑*, Berenike Rensinghoff, Daniel Brenn, Lea Gleißner, Lisa Kolodzie, Melanie Seltmann, Torsten Roeder
 
 _*) Gründerkrone_
+
+![Keep calm and join #DHall](keep-calm-and-join-dhall.jpg)
