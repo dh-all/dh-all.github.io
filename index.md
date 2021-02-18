@@ -21,4 +21,4 @@ Benjamin Auberer 👑*, Berenike Rensinghoff, Daniel Brenn, Lea Gleißner, Lisa 
 
 _*) Gründerkrone_
 
-![Keep calm and join #DHall](images/keep-calm-and-join-dhall_2.jpg)
+![Keep calm and join #DHall](images/keep-calm-and-join-dhall_2.png)
