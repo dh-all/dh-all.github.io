@@ -2,10 +2,12 @@
 
 ## Features
 
-* über 400 Mitglieder
+* über 500 Mitglieder
 * über 30 Channels
 * sehr nette Admins (s.u.)
-* Teeküche und Lernraum
+* offenes Foyer
+* angenehme Lounge
+* ruhiger Lesesaal
 * freie Getränke
 * good vibes
 
@@ -21,7 +23,9 @@ _*) Gründerkrone_
 
 ## Background
 
-Mehr über die Entstehungshintergründe [hier](about).
+Wie fing alles an? Schaut Euch [die Fotostory](fotostory) an.
+
+Lieber ein theoretischer Zugang? Lest über die [Entstehungshintergründe](about).
 
 ## Banner
 

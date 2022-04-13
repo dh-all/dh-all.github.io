@@ -4,7 +4,7 @@ _von Torsten Roeder, Februar 2021_
 
 ## Corona und informelle DH-Treffen
 
-Neben der Kombination von Informatik und Geisteswissenschaften basieren die Digital Humanities auf offenen und niederschwelligen Kommunikationsräumen. Mit den Maßnahmen zur Eindämmung der weltweiten Pandemie im Jahr 2020 mussten die zahlreichen informellen lokalen Angebote im DH-Bereich stark einbüßen: Stammtische mussten abgesagt werden, Science Cafés, Summer Schools oder Hackathons wurden gecancelt oder in digitale Formate transformiert. Die DH verloren dadurch einen bedeutenden Teil ihrer Aktions- und Handlungsräume für den interdisziplinären »Austausch auf Augenhöhe« (vgl. Busch et al. 2016). Informelle Kommunikationsräume bieten außerdem einen für die DH wichtigen außerinstitutionellen Netzwerkeffekt (Wuttke 2019: 71).
+Neben der Kombination von Informatik und Geisteswissenschaften basieren die Digital Humanities auf offenen und niederschwelligen Kommunikationsräumen. Mit den Maßnahmen zur Eindämmung der weltweiten Pandemie im Jahr 2020 mussten die zahlreichen informellen lokalen Angebote im DH-Bereich stark einbüßen: Stammtische mussten abgesagt werden, Science Cafés, Summer Schools oder Hackathons wurden gecancelt oder in digitale Formate transformiert. Die DH verloren dadurch einen bedeutenden Teil ihrer Aktions- und Handlungsräume für den interdisziplinären »Austausch auf Augenhöhe« (vgl. Busch et al. 2016). Informelle Kommunikationsräume boten außerdem einen für die DH wichtigen außerinstitutionellen Netzwerkeffekt (Wuttke 2019: 71).
 
 ## Transformation eines Real-Life-Events
 
