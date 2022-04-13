@@ -1,7 +1,5 @@
 # DHall Fotostory
 
-![](images/2020-02-20_1444.png)
-
 ![](images/2020-03-13_1249.png)
 
 ![](images/2020-03-13_1342.png)
